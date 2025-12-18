@@ -1,0 +1,138 @@
+{
+  "generated_at": "2025-12-18T07:18:58.778940+00:00",
+  "description": "Claude Code plugin installation statistics (last 30 days)",
+  "metrics": {
+    "total_plugins": 32,
+    "data_range_days": 30
+  },
+  "plugins": [
+    {
+      "plugin": "frontend-design@claude-plugins-official",
+      "unique_installs": 7647
+    },
+    {
+      "plugin": "context7@claude-plugins-official",
+      "unique_installs": 4772
+    },
+    {
+      "plugin": "code-review@claude-plugins-official",
+      "unique_installs": 4659
+    },
+    {
+      "plugin": "feature-dev@claude-plugins-official",
+      "unique_installs": 4093
+    },
+    {
+      "plugin": "playwright@claude-plugins-official",
+      "unique_installs": 3398
+    },
+    {
+      "plugin": "github@claude-plugins-official",
+      "unique_installs": 3180
+    },
+    {
+      "plugin": "commit-commands@claude-plugins-official",
+      "unique_installs": 3174
+    },
+    {
+      "plugin": "agent-sdk-dev@claude-plugins-official",
+      "unique_installs": 2715
+    },
+    {
+      "plugin": "security-guidance@claude-plugins-official",
+      "unique_installs": 2145
+    },
+    {
+      "plugin": "greptile@claude-plugins-official",
+      "unique_installs": 1934
+    },
+    {
+      "plugin": "pr-review-toolkit@claude-plugins-official",
+      "unique_installs": 1853
+    },
+    {
+      "plugin": "explanatory-output-style@claude-plugins-official",
+      "unique_installs": 1671
+    },
+    {
+      "plugin": "figma@claude-plugins-official",
+      "unique_installs": 1477
+    },
+    {
+      "plugin": "ralph-wiggum@claude-plugins-official",
+      "unique_installs": 1319
+    },
+    {
+      "plugin": "serena@claude-plugins-official",
+      "unique_installs": 1283
+    },
+    {
+      "plugin": "supabase@claude-plugins-official",
+      "unique_installs": 1282
+    },
+    {
+      "plugin": "vercel@claude-plugins-official",
+      "unique_installs": 1245
+    },
+    {
+      "plugin": "plugin-dev@claude-plugins-official",
+      "unique_installs": 1198
+    },
+    {
+      "plugin": "atlassian@claude-plugins-official",
+      "unique_installs": 1117
+    },
+    {
+      "plugin": "hookify@claude-plugins-official",
+      "unique_installs": 1106
+    },
+    {
+      "plugin": "learning-output-style@claude-plugins-official",
+      "unique_installs": 971
+    },
+    {
+      "plugin": "sentry@claude-plugins-official",
+      "unique_installs": 831
+    },
+    {
+      "plugin": "slack@claude-plugins-official",
+      "unique_installs": 810
+    },
+    {
+      "plugin": "linear@claude-plugins-official",
+      "unique_installs": 792
+    },
+    {
+      "plugin": "gitlab@claude-plugins-official",
+      "unique_installs": 666
+    },
+    {
+      "plugin": "firebase@claude-plugins-official",
+      "unique_installs": 605
+    },
+    {
+      "plugin": "notion@claude-plugins-official",
+      "unique_installs": 525
+    },
+    {
+      "plugin": "laravel-boost@claude-plugins-official",
+      "unique_installs": 492
+    },
+    {
+      "plugin": "Notion@claude-plugins-official",
+      "unique_installs": 393
+    },
+    {
+      "plugin": "asana@claude-plugins-official",
+      "unique_installs": 389
+    },
+    {
+      "plugin": "figma-mcp@claude-plugins-official",
+      "unique_installs": 85
+    },
+    {
+      "plugin": "example-plugin@claude-plugins-official",
+      "unique_installs": 27
+    }
+  ]
+}

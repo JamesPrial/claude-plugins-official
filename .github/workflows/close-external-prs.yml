@@ -6,6 +6,7 @@ on:
 
 jobs:
   check-membership:
+    if: vars.DISABLE_EXTERNAL_PR_CHECK != 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Check if author is org member
